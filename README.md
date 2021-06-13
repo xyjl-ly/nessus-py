@@ -1,2 +1,3 @@
 这是一个python3开发的脚本
-主要用于nessus的API，进行批量管理目标
+依赖于nessus的API
+可进行批量管理目标
