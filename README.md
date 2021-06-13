@@ -1,1 +1,2 @@
-#nessus-py
+这是一个python3开发的脚本
+主要用于nessus的API，进行批量管理目标
